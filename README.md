@@ -1,6 +1,6 @@
 # Hi there! &nbsp; <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="32px">
 
-### Console.log("Hello World!");
+### console.log("Hello World!");
 
 <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Earth.gif" width="24px">
 
