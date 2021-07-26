@@ -71,3 +71,46 @@ Which came first: the chicken or the egg?
 
 console.log(["🥚", "🐣", "🐥", "🐔"].sort());
 ```
+
+<br />
+
+<h2 align="center">My Top languages</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-rawat&langs_count=20" alt="Milan's top Languages">
+<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Developer.gif" alt="GIF" />
+</p>
+
+<br />
+  
+<h2 align="center">Github Stats 📈</h2>
+<p align="center" >
+  <img height="250" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-left.png" />
+    <img src="https://newgithub-readme-stats.vercel.app/api?username=Milan-rawat&show_icons=true&count_private=true&theme=blue-green">
+  <img height="250" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-right.png" />
+</p>
+  
+<br />
+  
+<h2 align="center">GitHub Trophies</h2>
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=Milan-rawat&theme=radical&column=7&row=2&margin-h=25&margin-w=5" alt="Milan's GitHub Trophies" />
+</p>
+
+<br />
+
+<h2 align="center">Milan's Streak</h2>
+<p align="center" >
+  <img height="235" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-left.png" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&count_private=true&theme=neon-dark">
+  <img height="235" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-right.png" />
+</p>
+
+<br />
+
+<!-- <h2 align="center">Analytics</h2>
+<p align="center" >
+<img src="https://activity-graph.herokuapp.com/graph?username=Milan-rawat&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF" />
+</p> -->
+
+
+
