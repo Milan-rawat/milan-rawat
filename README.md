@@ -84,9 +84,9 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort());
   
 <h2 align="center">Github Stats 📈</h2>
 <p align="center" >
-  <img height="215" width="170" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-left.png" />
-    <img width="410" src="https://newgithub-readme-stats.vercel.app/api?username=Milan-rawat&show_icons=true&count_private=true&theme=blue-green">
-  <img height="215" width="170" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-right.png" />
+  <img height="215" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-left.png" />
+    <img width="420" src="https://newgithub-readme-stats.vercel.app/api?username=Milan-rawat&show_icons=true&count_private=true&theme=blue-green">
+  <img height="215" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-right.png" />
 </p>
   
 <br />
