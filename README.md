@@ -101,7 +101,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort());
 <h2 align="center">Milan's Streak</h2>
 <p align="center" >
   <img height="210" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-left.png" />
-    <img width="410" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&count_private=true&theme=neon-dark">
+    <img width="420" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&count_private=true&theme=neon-dark">
   <img height="210" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-right.png" />
 </p>
 
