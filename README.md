@@ -84,9 +84,9 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort());
   
 <h2 align="center">Github Stats 📈</h2>
 <p align="center" >
-  <img height="250" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-left.png" />
+  <img height="235" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-left.png" />
     <img src="https://newgithub-readme-stats.vercel.app/api?username=Milan-rawat&show_icons=true&count_private=true&theme=blue-green">
-  <img height="250" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-right.png" />
+  <img height="235" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-right.png" />
 </p>
   
 <br />
@@ -100,9 +100,9 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort());
 
 <h2 align="center">Milan's Streak</h2>
 <p align="center" >
-  <img height="235" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-left.png" />
+  <img height="220" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-left.png" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&count_private=true&theme=neon-dark">
-  <img height="235" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-right.png" />
+  <img height="220" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-right.png" />
 </p>
 
 <br />
