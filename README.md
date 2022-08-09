@@ -10,7 +10,7 @@
 
 ## Let's Connect, Hey Wait! Who am I ? 🤨🤔
 
-Hellllo! I am Milan Rawat a Web Developer, keen learner & student😑
+Hellllo! I am Milan Rawat a Web Developer and Android Developer, keen learner😑
 
 <p>
   <em>
@@ -24,7 +24,7 @@ Hellllo! I am Milan Rawat a Web Developer, keen learner & student😑
 
 ### Now Connect with me<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/linkedin.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milan-rawat) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Twitter.png" alt="Twitter Logo" width="32">](https://twitter.com/milan8rawat) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/instagram.png" alt="instagram logo" width="32">](https://www.instagram.com/milanrawat086/) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/facebook.png" alt="Facebook Logo" width="30">](https://www.facebook.com/milanrawat086) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/gmail.png" alt="Gmail logo" height="32">](mailto:milanrawat086@gmail.com) |
+| [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/linkedin.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milan-rawat) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Twitter.png" alt="Twitter Logo" width="32">](https://twitter.com/milan8rawat) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/instagram.png" alt="instagram logo" width="32">](https://www.instagram.com/immrawat/) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/facebook.png" alt="Facebook Logo" width="30">](https://www.facebook.com/milanrawat086) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/gmail.png" alt="Gmail logo" height="32">](mailto:milanrawat086@gmail.com) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <br/>
@@ -35,36 +35,36 @@ Hellllo! I am Milan Rawat a Web Developer, keen learner & student😑
 const milan = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python", "Java", "c", "c++"],
-  askMeAbout: ["web dev", "tech"],
+  askMeAbout: ["Web Dev", "Android Dev", "Tech"],
   tools: ["Git", "Github"],
   technologies: {
     backEnd: {
       js: ["NodeJS", "Mongoose", "ExpressJS"],
     },
     frontEnd: {
-      js: ["ReactJS", "NextJS"],
+      js: ["ReactJS", "NextJS", "React Native"],
       css: ["Material-UI", "ReactBootstrap"],
     },
     databases: ["MongoDB", "MySql"],
     misc: ["Firebase"],
   },
   architecture: ["Serverless Architecture", "Single page applications"],
-  currentFocus: "DataScience",
+  currentFocus: "Interested in Multiple platforms",
 };
 ```
 
 <br>
 
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m \_currently Making a **Big Project** 💪.
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/headbang.gif" width="20vw" /> I’m _looking to collaborate_ on **React or Node 🐍 projects**.
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/hmm.gif" width="20vw" />
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/powerup.gif" width="30px" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Wave.gif" width="30px" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/gandalf_parrot.gif" width="30px" /> I’m \_currently Making a **Big Project** 💪.
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/headbang.gif" width="30px" /> I’m _looking to collaborate_ on **React or Node 🐍 projects**.
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/hmm.gif" width="30px" />
   I'm doing three things now, Just Thinking🤔, Thinking🤔 & Thinking🤔
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/happy.gif" width="20vw" /> I'm very active for my laziness
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴 am I really Smart? 🙄🤨
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/happy.gif" width="30px" /> I'm very active for my laziness
+- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/coin.gif" width="30px" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴 am I really Smart? 🙄🤨
 
-&nbsp; &nbsp; <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/coin.gif" width="20vw" /> **_☝One 👌more 😂Fun 😲fact:_** I once answered the world’s oldest question with a single line of JavaScript
+&nbsp; &nbsp; <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/coin.gif" width="30px" /> **_☝One 👌more 😂Fun 😲fact:_** I once answered the world’s oldest question with a single line of JavaScript
 
 ```
 Which came first: the chicken or the egg?
