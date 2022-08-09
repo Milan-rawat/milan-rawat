@@ -14,7 +14,7 @@ Hellllo! I am Milan Rawat a Web Developer and Android Developer, keen learnerðŸ˜
 
 <p>
   <em>
-    I am a 2nd Year IT undergraduate from <b>Institute of Hospitality, Management & Sciences</b>, Kotdwara.
+    I am a graduate cstudent from <b>Institute of Hospitality, Management & Sciences</b>, Kotdwara.
     A <b>Web Developer</b> <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast,</b>&nbsp;<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Developing.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Rocket.gif" width="18px">and 
