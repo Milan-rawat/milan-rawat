@@ -72,20 +72,48 @@ Marketplace platform featuring Jitsi Meet integration, Stripe payments, and real
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=milan-rawat&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&theme=tokyonight"/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milan-rawat&theme=tokyonight"
+    alt="Milan's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milan-rawat&theme=tokyonight"
+    alt="Milan's repositories by language"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-rawat&layout=compact&theme=tokyonight"/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milan-rawat&theme=tokyonight"
+    alt="Milan's most-used commit languages"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=milan-rawat&theme=tokyonight&hide_border=true"
+    alt="Milan's GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milan-rawat&theme=tokyonight"
+    alt="Milan's GitHub profile details"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=milan-rawat&theme=tokyonight&column=7"/>
+  <img
+    src="https://github-trophies.vercel.app/?username=milan-rawat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+    alt="Milan's GitHub trophies"
+  />
 </p>
 
 ---
@@ -123,6 +151,7 @@ Marketplace platform featuring Jitsi Meet integration, Stripe payments, and real
 
 - 🌐 Portfolio: https://milan-rawat.github.io/
 - 💼 LinkedIn: https://linkedin.com/in/milan-rawat
+- 💻 GitHub: https://github.com/milan-rawat
 - 📧 Email: milanrawat086@gmail.com
 
 ---
