@@ -1,116 +1,138 @@
-# Hi there! &nbsp; <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="32px">
+# Hi there 👋 I'm Milan Rawat
 
-### console.log("Hello World!");
-
-<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Earth.gif" width="24px">
-
-<img align='right' src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Coding.gif" width="230">
-<p><img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/giphy.gif" width="30">
-&nbsp; Working <del>Hard</del>😂😎</p>
-
-## Let's Connect, Hey Wait! Who am I ? 🤨🤔
-
-Hellllo! I am Milan Rawat a Web Developer and Android Developer, keen learner😑
-
-<p>
-  <em>
-    I am a graduate cstudent from <b>Institute of Hospitality, Management & Sciences</b>, Kotdwara.
-    A <b>Web Developer</b> <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast,</b>&nbsp;<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Developing.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>accelerate.</b> <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
-
-### Now Connect with me<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Handshake.gif" height="32px">
-
-| [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/linkedin.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milan-rawat) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Twitter.png" alt="Twitter Logo" width="32">](https://twitter.com/milan8rawat) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/instagram.png" alt="instagram logo" width="32">](https://www.instagram.com/immrawat/) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/facebook.png" alt="Facebook Logo" width="30">](https://www.facebook.com/milanrawat086) | [<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/gmail.png" alt="Gmail logo" height="32">](mailto:milanrawat086@gmail.com) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-<br/>
-
-### <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Space_cat.gif" width="50"> A little more about me...
-
-```javascript
-const milan = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Python", "Java", "c", "c++"],
-  askMeAbout: ["Web Dev", "Android Dev", "Tech"],
-  tools: ["Git", "Github"],
-  technologies: {
-    backEnd: {
-      js: ["NodeJS", "Mongoose", "ExpressJS"],
-    },
-    frontEnd: {
-      js: ["ReactJS", "NextJS", "React Native"],
-      css: ["Material-UI", "ReactBootstrap"],
-    },
-    databases: ["MongoDB", "MySql"],
-    misc: ["Firebase"],
-  },
-  architecture: ["Serverless Architecture", "Single page applications"],
-  currentFocus: "Interested in Multiple platforms",
-};
-```
-
-<br>
-
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/powerup.gif" width="30px" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Wave.gif" width="30px" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/gandalf_parrot.gif" width="30px" /> I’m \_currently Making a **Big Project** 💪.
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/headbang.gif" width="30px" /> I’m _looking to collaborate_ on **React or Node 🐍 projects**.
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/hmm.gif" width="30px" />
-  I'm doing three things now, Just Thinking🤔, Thinking🤔 & Thinking🤔
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/happy.gif" width="30px" /> I'm very active for my laziness
-- <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/coin.gif" width="30px" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴 am I really Smart? 🙄🤨
-
-&nbsp; &nbsp; <img alt="GIF" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/coin.gif" width="30px" /> **_☝One 👌more 😂Fun 😲fact:_** I once answered the world’s oldest question with a single line of JavaScript
-
-```
-Which came first: the chicken or the egg?
-
-console.log(["🥚", "🐣", "🐥", "🐔"].sort());
-```
-
-<br />
-
-<h2 align="center">My Top languages</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-rawat&langs_count=20" alt="Milan's top Languages">
-<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Developer.gif" alt="GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<br />
-  
-<h2 align="center">Github Stats 📈</h2>
-<p align="center" >
-  <img height="215" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-left.png" />
-    <img width="420" src="https://newgithub-readme-stats.vercel.app/api?username=Milan-rawat&show_icons=true&count_private=true&theme=blue-green">
-  <img height="215" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-fire-right.png" />
-</p>
-  
-<br />
-  
-<h2 align="center">GitHub Trophies</h2>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Milan-rawat&theme=radical&column=7&row=2&margin-h=25&margin-w=5" alt="Milan's GitHub Trophies" />
+  <a href="https://github.com/milan-rawat"><img src="https://img.shields.io/github/followers/milan-rawat?label=Followers&style=for-the-badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=milan-rawat&style=for-the-badge&color=blue"/>
 </p>
 
-<br />
+---
 
-<h2 align="center">Milan's Streak</h2>
-<p align="center" >
-  <img height="210" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-left.png" />
-    <img width="420" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&count_private=true&theme=neon-dark">
-  <img height="210" width="160" src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/wing-two-colored-right.png" />
+# 💫 About Me
+
+I'm a **Full Stack Developer with 4+ years of experience** building production-grade Healthcare, EdTech, Marketplace and E-commerce applications.
+
+- 🚀 React, Next.js, Node.js, Express.js
+- ⚡ TypeScript-first development
+- 🤖 AI, OpenAI API, TensorFlow, Scikit-Learn
+- ☁️ AWS, Docker
+- 💳 Stripe Integrations
+- 🔄 REST APIs & Real-time Applications
+- 🌍 Currently building **TrippinBuddy**
+
+---
+
+# 🛠 Tech Arsenal
+
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+## Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+## Database
+MongoDB • PostgreSQL • MySQL • Pinecone • ChromaDB
+
+## AI / ML
+OpenAI API • TensorFlow • Scikit-Learn • NumPy • Pandas • Matplotlib • RAG
+
+## Cloud & DevOps
+AWS • Docker • Git • GitHub
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 TrippinBuddy
+A travel platform connecting travelers and local guides.
+
+**Stack:** React • Node.js • TypeScript • MongoDB • Socket.io • JWT • Stripe
+
+---
+
+## 🏥 BeekHealth
+Healthcare platform integrating provider workflows, AI chatbot, Stripe billing, and healthcare interoperability.
+
+---
+
+## 💻 Geeker
+Marketplace platform featuring Jitsi Meet integration, Stripe payments, and real-time Socket.io notifications.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=milan-rawat&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-rawat&theme=tokyonight"/>
 </p>
 
-<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-rawat&layout=compact&theme=tokyonight"/>
+</p>
 
-<!-- <h2 align="center">Analytics</h2>
-<p align="center" >
-<img src="https://activity-graph.herokuapp.com/graph?username=Milan-rawat&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF" />
-</p> -->
+---
 
+# 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=milan-rawat&theme=tokyonight&column=7"/>
+</p>
 
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-rawat&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models
+- Advanced Machine Learning
+- System Design
+- AWS Architecture
+- CI/CD
+- Kubernetes
+
+---
+
+# 📜 Certifications
+
+- Complete AI & Machine Learning Bootcamp
+- Git & GitHub Bootcamp
+- Google Cloud Ready Facilitator
+- React - The Complete Guide
+- Node.js, Express, MongoDB & More
+
+---
+
+# 🤝 Connect With Me
+
+- 🌐 Portfolio: https://milan-rawat.github.io/
+- 💼 LinkedIn: https://linkedin.com/in/milan-rawat
+- 📧 Email: milanrawat086@gmail.com
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
