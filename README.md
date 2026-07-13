@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,42:0f172a,72:0369a1,100:38bdf8&text=Milan%20Rawat&fontColor=f8fafc&fontSize=58&fontAlignY=37&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20%26%20Cloud&descAlignY=59&descSize=20&animation=fadeIn" alt="Milan Rawat banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0284c7&text=Milan%20Rawat&fontColor=ffffff&fontSize=52&animation=fadeIn" alt="Milan Rawat banner"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=58&lines=Building+scalable+products+that+solve+real+problems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Real-time+systems+%E2%80%A2+Payments+%E2%80%A2+Cloud+%E2%80%A2+AI;4%2B+years+of+production+full-stack+experience" alt="Typing introduction"/>
